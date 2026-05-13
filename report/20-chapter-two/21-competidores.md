@@ -4,19 +4,18 @@
 
 **Orvibo Perú:**
 
-   ![Logo ORVIBO PERÚ](https://cdn.discordapp.com/attachments/708833636480188436/1497349794832711812/image.png?ex=69ed332a&is=69ebe1aa&hm=4af7abc329e3e4ad3670f1863269cf9ac333670d18419f75f972fd7ec3569c94&)
 
    ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
 
 **Smart House Perú:**
 
-   ![Logo SMART HOUSE PERU](https://cdn.discordapp.com/attachments/708833636480188436/1497350263806361692/image.png?ex=69ed339a&is=69ebe21a&hm=563d601e6bd7162c28a77ba75a90c027f14fda76ee23f2bebb5877ae4daed904&)
+
 
    Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. Ofrece servicios con procesos automatizados para satisfacer las necesidades de seguridad y bienestar del cliente mediante tecnología de punta.
 
 **E-Activa:**
 
-   ![Logo ACTIVA](https://cdn.discordapp.com/attachments/708833636480188436/1497350297763184730/image.png?ex=69ed33a2&is=69ebe222&hm=bfc4ffac33cc70bf13474425af0f75c0cefce9ef15816cfcd717f1c525e50b22&)
+
 
    Equipo de profesionales con 15 años de experiencia en la automatización de espacios para proyectos residenciales. Su visión es entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes.
 
