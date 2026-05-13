@@ -1,0 +1,30 @@
+# config/defaults.yaml
+input-files:
+  - report/01-front-matter/01-cover.md
+  - report/01-front-matter/02-version-history.md
+  - report/01-front-matter/03-collaboration-insights.md
+  - report/01-front-matter/04-content.md
+  - report/01-front-matter/05-student-outcome.md
+  - report/10-chapter-one/11-startup-profile.md
+  - report/10-chapter-one/12-solution-profile.md
+  - report/10-chapter-one/13-segmentos-objetivo.md
+
+# Aislamiento para evitar colisiones de IDs entre capitulos
+file-scope: true
+
+# Motor PDF moderno con soporte nativo UTF-8
+pdf-engine: lualatex
+
+# Configuraciones de variables y tabla de contenidos
+toc: false
+toc-depth: 3
+variables:
+  geometry:
+    - margin=1in
+  mainfont: "Arial"
+  colorlinks: true
+  header-includes:
+    - \usepackage{graphicx}
+
+# Salida del archivo respetando la nomenclatura del curso
+output-file: build/upc-pre-202610-1asi0730-10215-Dev-il-team-report-av1.pdf
