@@ -2,58 +2,86 @@
 
 ### 1.2.1 Antecedentes y problemática
 
-En los últimos años, el crecimiento del Internet de las Cosas (IoT) ha impulsado la adopción de dispositivos inteligentes en los hogares, tales como luces automatizadas, cámaras de seguridad, sensores de movimiento, sistemas de climatización y electrodomésticos conectados. Sin embargo, este avance tecnológico ha traído consigo una problemática importante: la fragmentación en la gestión de dispositivos.
+En los últimos años, el crecimiento del Internet de las Cosas (IoT) ha transformado progresivamente los hogares tradicionales en entornos inteligentes capaces de automatizar tareas, mejorar la seguridad y optimizar el consumo energético. Actualmente, dispositivos como luces inteligentes, cámaras de vigilancia, sensores de movimiento, asistentes virtuales y sistemas de climatización conectados forman parte de la vida cotidiana de muchos usuarios.
 
-Muchos usuarios deben utilizar múltiples aplicaciones para controlar distintos dispositivos, lo que genera una experiencia poco eficiente, confusa y limitada. Además, existe una falta de herramientas accesibles que permitan integrar, automatizar y monitorear todos los dispositivos desde una sola plataforma.
+Sin embargo, este crecimiento tecnológico también ha generado una problemática importante relacionada con la fragmentación en la administración de dispositivos inteligentes. La mayoría de fabricantes desarrolla sus propios ecosistemas y aplicaciones, obligando a los usuarios a utilizar múltiples plataformas para controlar distintos dispositivos dentro de un mismo hogar. Como consecuencia, la experiencia de usuario se vuelve compleja, poco intuitiva y limitada en términos de integración y automatización.
 
-Para comprender mejor esta problemática, se aplica la metodología 5W2H, la cual permite analizar el problema de forma estructurada:
+Además, muchas soluciones existentes presentan barreras técnicas para usuarios con conocimientos tecnológicos básicos, dificultando la configuración de automatizaciones, el monitoreo centralizado y la supervisión eficiente del consumo energético. Esta situación reduce el aprovechamiento real de las tecnologías IoT y afecta directamente la comodidad, seguridad y eficiencia operativa del hogar inteligente.
 
-* **What (¿Qué está ocurriendo?):** Los usuarios de hogares inteligentes enfrentan dificultades para gestionar sus dispositivos debido a la existencia de múltiples plataformas y aplicaciones independientes. Esto limita la eficiencia, la comodidad y el control integral del hogar.
+Con el propósito de comprender mejor la problemática identificada, se aplica la metodología 5W2H, la cual permite analizar el contexto del problema de manera estructurada.
 
-* **Why (¿Por qué ocurre?):** Porque cada fabricante de dispositivos IoT desarrolla su propia aplicación, lo que impide una integración unificada. Además, muchas soluciones existentes son complejas, poco intuitivas o requieren conocimientos técnicos avanzados.
+* **What (¿Qué está ocurriendo?):** 
 
-* **Where (¿Dónde ocurre?):** Este problema se presenta en hogares que cuentan con dispositivos inteligentes, especialmente en aquellos donde se han adquirido productos de diferentes marcas o proveedores tecnológicos.
+Los usuarios de hogares inteligentes enfrentan dificultades para administrar y monitorear sus dispositivos debido a la existencia de múltiples aplicaciones y plataformas independientes. Esto limita la capacidad de control centralizado, automatización y supervisión eficiente del hogar.
 
-* **When (¿Cuándo ocurre?):** Ocurre de manera constante durante el uso cotidiano de los dispositivos, especialmente cuando el usuario necesita controlar múltiples elementos del hogar o realizar tareas repetitivas sin automatización.
+* **Why (¿Por qué ocurre?):** 
 
-* **Who (¿Quiénes se ven afectados?):**
+La problemática ocurre porque cada fabricante implementa soluciones propietarias con poca interoperabilidad entre dispositivos de distintas marcas. Asimismo, muchas plataformas actuales poseen interfaces complejas o procesos de configuración poco accesibles para usuarios sin conocimientos técnicos avanzados.
+
+* **Where (¿Dónde ocurre?):** 
+
+El problema se presenta principalmente en hogares inteligentes que utilizan dispositivos IoT de diferentes fabricantes, especialmente en viviendas urbanas donde existe una creciente adopción de tecnologías domóticas y automatización residencial.
+
+* **When (¿Cuándo ocurre?):** 
+
+La problemática se manifiesta durante el uso cotidiano de los dispositivos inteligentes, especialmente cuando los usuarios necesitan controlar múltiples sistemas simultáneamente, monitorear el estado general del hogar o configurar automatizaciones para tareas recurrentes.
+
+* **Who (¿Quiénes se ven afectados?):** Los principales afectados son:
+
     * Propietarios de viviendas inteligentes
-    * Personas que desean convertir su hogar en smart home
+    * Usuarios interesados en implementar soluciones smart home
+    * Familias que buscan optimizar seguridad y consumo energético
     * Técnicos o empresas de instalación domótica
-    * Usuarios con conocimientos tecnológicos básicos que buscan soluciones simples
+    * Usuarios con conocimientos tecnológicos básicos que requieren plataformas intuitivas y centralizadas
 
-* **How (¿Cómo ocurre?):** La problemática se manifiesta a través de:
-    * uso de múltiples aplicaciones para diferentes dispositivos
-    * dificultad para monitorear el estado general del hogar
-    * falta de automatización centralizada
-    * procesos manuales repetitivos
-    * poca visibilidad del consumo energético
+* **How (¿Cómo ocurre?):** La problemática se evidencia mediante:
 
-* **How much (¿Qué impacto tiene?):** El impacto incluye:
-    * pérdida de tiempo en la gestión de dispositivos
-    * reducción en la eficiencia del hogar
-    * menor aprovechamiento de la tecnología IoT
-    * aumento del consumo energético por falta de control
-    * frustración del usuario debido a la complejidad del sistema
+    * Pérdida de tiempo en la administración manual de dispositivos
+    * Reducción en la eficiencia energética del hogar
+    * Incremento del consumo eléctrico debido a la falta de monitoreo centralizado
+    * Menor aprovechamiento de las capacidades de automatización IoT
+    * Incremento en la frustración y dependencia tecnológica del usuario
+    * Disminución de la accesibilidad para usuarios sin experiencia técnica
+
+
+* **How much (¿Qué impacto tiene?):** El impacto de esta problemática incluye:
+
+    * Pérdida de tiempo en la administración manual de dispositivos
+    * Reducción en la eficiencia energética del hogar
+    * Incremento del consumo eléctrico debido a la falta de monitoreo centralizado
+    * Menor aprovechamiento de las capacidades de automatización IoT
+    * Incremento en la frustración y dependencia tecnológica del usuario
+    * Disminución de la accesibilidad para usuarios sin experiencia técnica
 
 **Conclusión del análisis**
 
-A partir del análisis, se identifica la necesidad de una solución que permita centralizar, simplificar y optimizar la gestión de dispositivos inteligentes en el hogar. En este contexto, la propuesta de una aplicación web como Smart Home HERA surge como una alternativa que busca integrar todos los dispositivos en una única plataforma, mejorando la experiencia del usuario y promoviendo la eficiencia, seguridad y comodidad.
+A partir del análisis realizado, se identifica la necesidad de desarrollar una solución que permita centralizar, simplificar y optimizar la gestión de dispositivos inteligentes dentro del hogar. En este contexto, la plataforma web Smart Home HERA surge como una propuesta orientada a integrar dispositivos IoT en un único entorno de administración, facilitando el monitoreo, automatización y control eficiente del hogar inteligente.
 
-En base a la problemática identificada, se definen los siguientes objetivos de la solución:
+La solución busca mejorar significativamente la experiencia de usuario mediante una interfaz intuitiva, accesible y enfocada en la interoperabilidad entre dispositivos, promoviendo además una mayor eficiencia energética, comodidad y seguridad residencial.
 
 * **Objetivos de la solución:**
-    * Desarrollar una aplicación web que centralice la gestión de dispositivos IoT
-    * Facilitar el control y monitoreo del hogar inteligente
-    * Permitir la automatización de tareas domésticas
-    * Mejorar la experiencia de usuario mediante una interfaz intuitiva
+
+* **Objetivo general:**
+
+Desarrollar una plataforma web capaz de centralizar la administración y monitoreo de dispositivos IoT domésticos, optimizando la experiencia de usuario y mejorando la eficiencia operativa del hogar inteligente.
+
+* **Objetivos especificos:**
+
+    * Integrar múltiples dispositivos inteligentes dentro de una única plataforma centralizada
+    * Facilitar el monitoreo en tiempo real del estado del hogar inteligente
+    * Permitir la automatización de tareas domésticas mediante rutinas configurables
+    * Proporcionar visualización del consumo energético de los dispositivos conectados
+    * Mejorar la accesibilidad y facilidad de uso mediante una interfaz intuitiva y responsive
+    * Incrementar la interoperabilidad entre dispositivos IoT de distintos fabricantes
 
 * **Restricciones del proyecto:**
-    * Dependencia de la compatibilidad con dispositivos IoT existentes
-    * Limitaciones de integración con APIs de terceros
-    * Necesidad de conexión a internet para el funcionamiento del sistema
-    * Alcance limitado a una aplicación web (no app móvil nativa)
-    * Tiempo y recursos del equipo de desarrollo
+
+    * Dependencia de la compatibilidad y disponibilidad de APIs proporcionadas por fabricantes de dispositivos IoT
+    * Limitaciones de interoperabilidad entre ciertos protocolos y ecosistemas propietarios
+    * Necesidad de conexión estable a internet para la sincronización y monitoreo en tiempo real
+    * Alcance limitado al desarrollo de una aplicación web responsive, sin implementación móvil nativa
+    * Restricciones de tiempo y recursos del equipo de desarrollo durante el ciclo académico
+    * Limitaciones asociadas al uso de servicios externos y simulación de dispositivos IoT durante el desarrollo del proyecto
 
 ### 1.2.2 Lean UX Process
 
@@ -75,15 +103,25 @@ Para contextualizar los problemas identificados, se definen los siguientes eleme
 
 A partir de este contexto, se han identificado los siguientes Lean UX Problem Statements:
 
-* **Problem Statement 1:** Los propietarios de hogares inteligentes necesitan una forma sencilla y centralizada de gestionar todos sus dispositivos, ya que actualmente deben utilizar múltiples aplicaciones, lo que genera confusión, pérdida de tiempo y una experiencia poco eficiente.
+* **Problem Statement 1:** 
 
-* **Problem Statement 2:** Los usuarios requieren visualizar el estado general de su hogar en tiempo real, debido a que no cuentan con una plataforma que les permita monitorear de forma integrada aspectos como iluminación, seguridad, temperatura y consumo energético.
+Los propietarios de hogares inteligentes necesitan una forma sencilla y centralizada de gestionar todos sus dispositivos, ya que actualmente deben utilizar múltiples aplicaciones, lo que genera confusión, pérdida de tiempo y una experiencia poco eficiente.
 
-* **Problem Statement 3:** Las personas que desean automatizar su hogar necesitan herramientas intuitivas para programar rutinas, ya que las soluciones actuales suelen ser complejas o requieren conocimientos técnicos avanzados.
+* **Problem Statement 2:** 
 
-* **Problem Statement 4:** Los usuarios necesitan optimizar el consumo energético de sus hogares, pero no disponen de información clara ni de herramientas que les permitan analizar y controlar el uso de energía de sus dispositivos.
+Los usuarios requieren visualizar el estado general de su hogar en tiempo real, debido a que no cuentan con una plataforma que les permita monitorear de forma integrada aspectos como iluminación, seguridad, temperatura y consumo energético.
 
-* **Problem Statement 5:** Los técnicos y empresas de instalación domótica requieren una plataforma que facilite la gestión y monitoreo de múltiples hogares, ya que actualmente no cuentan con una solución unificada para brindar soporte eficiente a sus clientes.
+* **Problem Statement 3:** 
+
+Las personas que desean automatizar su hogar necesitan herramientas intuitivas para programar rutinas, ya que las soluciones actuales suelen ser complejas o requieren conocimientos técnicos avanzados.
+
+* **Problem Statement 4:** 
+
+Los usuarios necesitan optimizar el consumo energético de sus hogares, pero no disponen de información clara ni de herramientas que les permitan analizar y controlar el uso de energía de sus dispositivos.
+
+* **Problem Statement 5:** 
+
+Los técnicos y empresas de instalación domótica requieren una plataforma que facilite la gestión y monitoreo de múltiples hogares, ya que actualmente no cuentan con una solución unificada para brindar soporte eficiente a sus clientes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
