@@ -32,7 +32,6 @@ Para el logotipo y los títulos principales se utiliza la tipografía **Poppins*
 
 La combinación de ambas fuentes permite mantener una jerarquía visual clara, reforzar la identidad visual de Hera y asegurar una experiencia de usuario consistente en todos los dispositivos.
 
-![][image21]
 
 ## **Tipografía del Logo y Títulos**
 
@@ -42,7 +41,6 @@ Además, su estilo visual aporta una identidad sofisticada y sólida, alineada c
 
 La combinación del nombre Hera, inspirado en la diosa griega asociada al orden, la protección y el hogar, junto con una tipografía moderna como Poppins, refuerza la identidad de una marca tecnológica, elegante y confiable dentro del sector de smart homes.
 
-![][image22]
 
 ## **Tipografía de Texto Regular**
 
@@ -52,13 +50,12 @@ Se emplean diferentes pesos tipográficos como **Light, Regular, Medium y Bold**
 
 La tipografía Roboto garantiza claridad, accesibilidad y una experiencia de navegación fluida en distintos tamaños de pantalla, contribuyendo a una interacción más eficiente dentro del ecosistema smart home de Hera.
 
-![][image23]
+
 
 ## **4.1.1.2. Colores**
 
 La paleta de colores de Hera ha sido diseñada para transmitir elegancia, tecnología, seguridad y control, asegurando una experiencia visual clara, moderna y sofisticada.
 
-![][image24]
 
 ### **Paleta Principal**
 

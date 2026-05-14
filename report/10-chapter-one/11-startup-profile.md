@@ -87,14 +87,4 @@ De esta manera, la startup busca no solo facilitar la gestión del hogar intelig
 \end{tabular}
 
 
-\noindent
-\begin{tabular}{p{0.72\textwidth} p{0.23\textwidth}}
-\textbf{Integrante 5: Emilia Mercedes Durán Santandreu} \newline
-\textbf{Código de estudiante:} U201914541 \newline
-\textbf{Carrera:} Ingeniería de Software \newline
-\textbf{Descripción:} Soy una estudiante de Ingeniería de Software, me considero una persona perseverante, y proactiva. Mi objetivo es poder desarrollar soluciones innovadoras y eficientes que satisfagan las necesidades de usuarios. \newline
-\textbf{Aporte al equipo:} Participe en la elaboración del Frontend, asi como correcciones en el reporte del trabajo, creado una base de pasos accionables sobre las cuales basarnos para continuar con el proyecto.
-&
-\vspace{-0.5cm}
-\includegraphics[width=\linewidth]{assets/emilia-duran.jpeg}
-\end{tabular}
+

@@ -16,7 +16,6 @@ En esta propuesta se incluyen secciones clave como el encabezado de navegación 
 
 El diseño prioriza la simplicidad visual, el acceso rápido a la información relevante y una estructura responsive tanto para Desktop Web Browser como para Mobile Web Browser. Además, se aplican principios de diseño inclusivo, usabilidad y arquitectura de información, permitiendo una experiencia consistente y accesible para todos los usuarios.
 
-![][image27]
 
 El wireframe presentado para la versión Desktop Web Browser muestra la distribución estructural de la landing page de Hera, permitiendo visualizar la jerarquía de cada sección y la relación entre los elementos principales de navegación e interacción.
 
@@ -28,7 +27,7 @@ Esta estructura permite una navegación intuitiva, mejora la experiencia del usu
 
 A continuación, se adjunta el enlace de acceso al diseño desarrollado en Figma: 
 
-[https://www.figma.com/design/az3HBCK2ADyKoz8aJlhAdt/WireFrime-Hero?node-id=3-2\&t=ktAx9ffZJ6bp4Hbl-1](https://www.figma.com/design/az3HBCK2ADyKoz8aJlhAdt/WireFrime-Hero?node-id=3-2&t=ktAx9ffZJ6bp4Hbl-1)
+
 
 2. ### **Landing Page Mock-up**
 
@@ -38,8 +37,6 @@ La propuesta busca optimizar la experiencia del usuario mediante una interfaz cl
 
 Se presentan versiones para Desktop Web Browser y Mobile Web Browser, asegurando una experiencia responsive, accesible y consistente en distintos dispositivos. Además, el diseño refleja la correcta aplicación de principios de usabilidad, diseño inclusivo, arquitectura de información y el Design System establecido para Hera.
 
-![][image28]
 
 A continuación, se adjunta el enlace de acceso al diseño desarrollado en Figma: 
 
-[https://www.figma.com/design/az3HBCK2ADyKoz8aJlhAdt/WireFrime-Hero?node-id=3-2\&t=ktAx9ffZJ6bp4Hbl-1](https://www.figma.com/design/az3HBCK2ADyKoz8aJlhAdt/WireFrime-Hero?node-id=3-2&t=ktAx9ffZJ6bp4Hbl-1)
