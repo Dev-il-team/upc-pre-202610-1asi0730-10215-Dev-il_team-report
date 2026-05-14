@@ -10,4 +10,4 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:---|:---|:---|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | _ | _ |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta |  | _ |
