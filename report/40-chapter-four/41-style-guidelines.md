@@ -1,4 +1,6 @@
-1. ## **Style Guidelines** {#style-guidelines}
+# 4. Capítulo IV: Product Design
+
+## 4.1. Style Guidelines 
 
 Hera es una plataforma web orientada a la gestión inteligente de hogares mediante soluciones domóticas para el control de iluminación, climatización, seguridad, consumo energético, mantenimiento de piscinas y automatización general. Su objetivo es brindar a los usuarios una experiencia centralizada, eficiente y segura para supervisar y administrar su hogar desde una sola plataforma digital.
 
@@ -6,7 +8,7 @@ En esta sección se presenta una guía estructurada que reúne los principales e
 
 Asimismo, esta guía funciona como un repositorio común para todo el equipo de desarrollo, asegurando consistencia en la presentación del producto y una experiencia de usuario clara, intuitiva y profesional en toda la plataforma web.
 
-1. ### **General Style Guidelines** {#general-style-guidelines}
+### 4.1.1. General Style Guidelines
 
 El branding de Hera está diseñado para transmitir elegancia, innovación, seguridad y control, elementos fundamentales en una plataforma orientada a la gestión inteligente de hogares mediante soluciones domóticas. A través de una estética moderna, limpia y funcional, se busca facilitar la supervisión de dispositivos, el monitoreo del consumo energético y la automatización de tareas cotidianas desde una sola plataforma centralizada.
 
@@ -24,7 +26,7 @@ En cuanto a las dimensiones del tono de comunicación, Hera se posiciona como:
 
 Para la definición de estos lineamientos, se tomaron como referencia principios de diseño centrados en el usuario y sistemas de diseño modernos como Material Design (Google, 2014), priorizando la claridad, la jerarquía visual, la accesibilidad y la consistencia en entornos digitales.
 
-## **4.1.1.1. Tipografía**
+**Tipografía**
 
 La tipografía de Hera ha sido seleccionada para garantizar claridad, legibilidad y una experiencia de navegación eficiente dentro de la plataforma web. Debido a que el sistema gestiona información importante como seguridad, consumo energético y automatización del hogar, es fundamental que el usuario pueda interpretar los datos de forma rápida y precisa.
 
@@ -32,8 +34,7 @@ Para el logotipo y los títulos principales se utiliza la tipografía **Poppins*
 
 La combinación de ambas fuentes permite mantener una jerarquía visual clara, reforzar la identidad visual de Hera y asegurar una experiencia de usuario consistente en todos los dispositivos.
 
-
-## **Tipografía del Logo y Títulos**
+**Tipografía del Logo y Títulos**
 
 Se utiliza la tipografía **Poppins** para el logotipo y los títulos principales de Hera, debido a su diseño moderno, limpio y altamente legible. Su estructura geométrica transmite orden, tecnología, elegancia y confianza, características fundamentales para una plataforma orientada a la gestión inteligente de hogares.
 
@@ -41,8 +42,7 @@ Además, su estilo visual aporta una identidad sofisticada y sólida, alineada c
 
 La combinación del nombre Hera, inspirado en la diosa griega asociada al orden, la protección y el hogar, junto con una tipografía moderna como Poppins, refuerza la identidad de una marca tecnológica, elegante y confiable dentro del sector de smart homes.
 
-
-## **Tipografía de Texto Regular**
+**Tipografía de Texto Regular**
 
 Para el contenido general de la plataforma Hera se utiliza la tipografía **Roboto**, seleccionada por su excelente legibilidad en pantallas digitales y su diseño funcional orientado a interfaces modernas. Su estructura limpia y equilibrada permite una lectura cómoda en paneles de control, formularios, dashboards y secciones informativas dentro del sistema.
 
@@ -50,14 +50,11 @@ Se emplean diferentes pesos tipográficos como **Light, Regular, Medium y Bold**
 
 La tipografía Roboto garantiza claridad, accesibilidad y una experiencia de navegación fluida en distintos tamaños de pantalla, contribuyendo a una interacción más eficiente dentro del ecosistema smart home de Hera.
 
-
-
-## **4.1.1.2. Colores**
+**Colores**
 
 La paleta de colores de Hera ha sido diseñada para transmitir elegancia, tecnología, seguridad y control, asegurando una experiencia visual clara, moderna y sofisticada.
 
-
-### **Paleta Principal**
+**Paleta Principal**
 
 **Azul Nocturno (\#0D1B2A):** Representa confianza, seguridad y estabilidad. Es el color principal de la plataforma, utilizado en fondos principales, navegación y paneles de control.
 
@@ -65,7 +62,7 @@ La paleta de colores de Hera ha sido diseñada para transmitir elegancia, tecnol
 
 **Marfil (\#F7F6F2):** Permite una lectura limpia y ordenada, generando equilibrio visual y mejorando la legibilidad dentro de la interfaz.
 
-### **Paleta Secundaria**
+**Paleta Secundaria**
 
 **Verde Esmeralda (\#059669):** Indica estados positivos, correcto funcionamiento y eficiencia en dispositivos o servicios.
 
@@ -75,7 +72,7 @@ La paleta de colores de Hera ha sido diseñada para transmitir elegancia, tecnol
 
 **Rojo (\#EF4444):** Representa errores, alertas críticas y situaciones de riesgo que requieren acción inmediata.
 
-## **4.1.1.3. Espaciado**
+**Espaciado**
 
 El espaciado en la interfaz de Hera sigue una estructura basada en múltiplos de 8 (8, 16, 24, 32 y 48 píxeles), lo que permite mantener consistencia, equilibrio visual y una organización clara en toda la plataforma.
 
@@ -83,7 +80,7 @@ Este sistema facilita la distribución de los elementos dentro de dashboards, fo
 
 Además, el uso de un sistema de espaciado uniforme permite una mejor adaptación a distintos tamaños de pantalla, garantizando una experiencia fluida y consistente tanto en computadoras como en tablets y dispositivos móviles.
 
-## **4.1.1.4. Iconografía**
+**Iconografía**
 
 La iconografía en Hera se basa en un estilo minimalista, elegante y lineal, utilizando íconos simples y fácilmente reconocibles que permiten una comprensión rápida dentro de la plataforma.
 
@@ -91,9 +88,7 @@ Se prioriza el uso de símbolos claros relacionados con las principales funcione
 
 Estos elementos facilitan la navegación del usuario y reducen la carga visual dentro de dashboards y paneles de control, permitiendo identificar funciones importantes de forma inmediata. Además, los íconos mantienen coherencia con la identidad visual de Hera, reforzando su imagen tecnológica, sofisticada y orientada a la eficiencia del hogar inteligente.
 
-![][image25]
-
-## **4.1.1.5. Tono de Comunicación y Lenguaje Aplicado**
+**Tono de Comunicación y Lenguaje Aplicado**
 
 El tono de comunicación de Hera es claro, profesional y orientado a la eficiencia. La plataforma está diseñada para transmitir información de forma rápida y precisa, evitando ambigüedades y priorizando la comprensión inmediata del usuario.
 
@@ -106,7 +101,7 @@ Se utiliza un lenguaje sencillo y directo en acciones y notificaciones como:
 
 Este enfoque permite que el usuario gestione su smart home de forma intuitiva y sin confusión. Al mismo tiempo, el tono mantiene un nivel de formalidad que transmite confianza, control y estabilidad, reforzando la imagen de una plataforma tecnológica segura y sofisticada.
 
-## **4.1.2. Web Style Guidelines**
+### 4.1.2. Web Style Guidelines
 
 En el diseño visual de Hera se adopta una línea gráfica moderna, elegante y funcional, enfocada en la claridad de la información y la experiencia del usuario dentro del entorno smart home.
 
