@@ -16,6 +16,8 @@ En esta propuesta se incluyen secciones clave como el encabezado de navegación 
 
 El diseño prioriza la simplicidad visual, el acceso rápido a la información relevante y una estructura responsive tanto para Desktop Web Browser como para Mobile Web Browser. Además, se aplican principios de diseño inclusivo, usabilidad y arquitectura de información, permitiendo una experiencia consistente y accesible para todos los usuarios.
 
+\includegraphics[width=\linewidth]{assets/landing-wireframe.png}
+
 El wireframe presentado para la versión Desktop Web Browser muestra la distribución estructural de la landing page de Hera, permitiendo visualizar la jerarquía de cada sección y la relación entre los elementos principales de navegación e interacción.
 
 En la parte superior se ubica el navbar principal con el logotipo, menú de navegación y el botón de llamada a la acción “Solicitar Demo”, facilitando el acceso rápido a las secciones más importantes. La hero section destaca la propuesta de valor principal de la plataforma junto con botones orientados a la conversión del usuario.
@@ -35,6 +37,8 @@ Los mock-ups de la landing page de Hera presentan la versión visual final de la
 La propuesta busca optimizar la experiencia del usuario mediante una interfaz clara, elegante y funcional, permitiendo comprender rápidamente los servicios de smart home, la automatización del hogar, el monitoreo energético y los sistemas de seguridad disponibles.
 
 Se presentan versiones para Desktop Web Browser y Mobile Web Browser, asegurando una experiencia responsive, accesible y consistente en distintos dispositivos. Además, el diseño refleja la correcta aplicación de principios de usabilidad, diseño inclusivo, arquitectura de información y el Design System establecido para Hera.
+
+\includegraphics[width=\linewidth]{assets/landing-mock-up.png}
 
 A continuación, se adjunta el enlace de acceso al diseño desarrollado en Figma: 
 

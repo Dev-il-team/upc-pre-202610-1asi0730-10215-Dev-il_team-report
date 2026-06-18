@@ -2,3 +2,7 @@
 
 ### 4.7.1. Class Diagrams
 
+\includegraphics[width=\linewidth]{assets/class-diagram-01.png}
+
+\includegraphics[width=\linewidth]{assets/class-diagram-02.png}
+

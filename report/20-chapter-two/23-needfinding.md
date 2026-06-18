@@ -3,14 +3,14 @@
 ### 2.3.1. User Personas
 
 **Vicente Gutiérrez (33 años) - Segmento 1**
-   Ingeniero civil que ha trabajado en el extranjero. Desea convertir su departamento en smart home para ganar seguridad y comodidad, buscando información clara y en tiempo real.
+Ingeniero civil que ha trabajado en el extranjero. Desea convertir su departamento en smart home para ganar seguridad y comodidad, buscando información clara y en tiempo real.
 
+\includegraphics[width=\linewidth]{assets/user-persona-01.png}
 
+**Jenny Cáceres (39 años) - Segmento 2**
+Arquitecta con experiencia internacional. Aunque ya tiene una smart home, está insatisfecha porque su software actual falla o no conecta con dispositivos nuevos; busca una opción más intuitiva e integrada.
 
-   **Jenny Cáceres (39 años) - Segmento 2**
-   Arquitecta con experiencia internacional. Aunque ya tiene una smart home, está insatisfecha porque su software actual falla o no conecta con dispositivos nuevos; busca una opción más intuitiva e integrada.
-
-
+\includegraphics[width=\linewidth]{assets/user-persona-02.png}
 
 ### 2.3.2. User Task Matrix
 
@@ -29,15 +29,18 @@
 
 **Segmento 1:** Enfocado en la rutina de salida, verificación de seguridad y monitoreo de mascotas.
 
+\includegraphics[width=\linewidth]{assets/user-mapping-01.png}
 
+**Segmento 2:** Enfocado en la rutina matutina automatizada y el control de temperatura antes de llegar a casa.
 
-   **Segmento 2:** Enfocado en la rutina matutina automatizada y el control de temperatura antes de llegar a casa.
-
-
+\includegraphics[width=\linewidth]{assets/user-mapping-02.png}
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento 1:** Destaca el miedo a la inseguridad y el interés por ver métricas de ahorro energético reales.
 
+\includegraphics[width=\linewidth]{assets/emphaty-mapping-01.png}
 
-   **Segmento 2:** Destaca la necesidad de que el hogar "funcione solo" y la frustración cuando falla la conectividad.
+**Segmento 2:** Destaca la necesidad de que el hogar "funcione solo" y la frustración cuando falla la conectividad.
+
+\includegraphics[width=\linewidth]{assets/emphaty-mapping-02.png}

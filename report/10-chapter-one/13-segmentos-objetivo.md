@@ -20,6 +20,13 @@ Según estudios de mercado, el número de dispositivos IoT en el hogar ha crecid
 
 Estos usuarios enfrentan el problema de tener que utilizar múltiples aplicaciones, lo que genera una experiencia fragmentada e ineficiente.
 
+\includegraphics[width=\linewidth]{assets/Segmentos.png}
+
+Figura 1. Crecimiento de dispositivos IoT a nivel mundial.
+Fuente: Elaboración propia basada en datos de Statista (2024)
+Como se muestra en la figura 1, el número de dispositivos IoT ha crecido de manera sostenida en los últimos años, lo que evidencia la creciente adopción de tecnologías de hogar inteligente.
+
+
 **1.3.3 Empresas y técnicos de instalación domótica**
 
 Este segmento está compuesto por profesionales y empresas dedicadas a la instalación, configuración y mantenimiento de sistemas de hogares inteligentes.

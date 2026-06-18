@@ -221,5 +221,8 @@ A continuación, se presentan las principales suposiciones identificadas para el
 
 #### 1.2.2.4. Lean UX Canvas
 
-El Lean UX Canvas resume la visión del producto, los problemas identificados, los segmentos de usuarios, las suposiciones y las hipótesis definidas previamente. Este modelo permite alinear el desarrollo del software con las necesidades reales del usuario y los objetivos del negocio. A continuación, se presenta el Lean UX Canvas del proyecto:
+El Lean UX Canvas resume la visión del producto, los problemas identificados, los segmentos de usuarios, las suposiciones y las hipótesis definidas previamente. Este modelo permite alinear el desarrollo del software con las necesidades reales del usuario y los objetivos del negocio. 
 
+A continuación, se presenta el Lean UX Canvas del proyecto:
+
+\includegraphics[width=\linewidth]{assets/lean-ux-canvas.png}

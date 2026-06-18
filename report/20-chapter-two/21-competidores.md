@@ -4,18 +4,19 @@
 
 **Orvibo Perú:**
 
+\includegraphics[width=\linewidth]{assets/orvibo.png}
 
    ORVIBO es un proveedor de soluciones integrales para el hogar inteligente. Ha desarrollado una amplia gama de productos, con más de 1000 patentes, incluyendo paneles de control inteligentes, iluminación, interruptores, seguridad, cortinas, sistemas de climatización y entretenimiento.
 
 **Smart House Perú:**
 
-
+\includegraphics[width=\linewidth]{assets/smart-house.png}
 
    Empresa reconocida en soluciones tecnológicas y de confort con altos estándares de calidad. Ofrece servicios con procesos automatizados para satisfacer las necesidades de seguridad y bienestar del cliente mediante tecnología de punta.
 
 **E-Activa:**
 
-
+\includegraphics[width=\linewidth]{assets/activa.png}
 
    Equipo de profesionales con 15 años de experiencia en la automatización de espacios para proyectos residenciales. Su visión es entregar alternativas tecnológicas de verdadera funcionalidad a sus clientes.
 
