@@ -12,7 +12,7 @@
 
 ## Contraste con la validación
 
-* Los Problem Statements, Assumptions e Hypotheses planteados en el proceso Lean UX (sección 1.2) se contrastan con las Validation Interviews (sección 5.3). Las hipótesis centrales —la necesidad de centralizar el control de dispositivos y el valor del monitoreo energético y la automatización— se mantienen como las de mayor prioridad percibida por los segmentos entrevistados. *(Completar con los resultados cuantitativos del registro de entrevistas de la sección 5.3.2.)*
+* Los Problem Statements, Assumptions e Hypotheses planteados en el proceso Lean UX (sección 1.2) se contrastan con las Validation Interviews (sección 5.3). Las hipótesis centrales —la necesidad de centralizar el control de dispositivos y el valor del monitoreo energético y la automatización— se mantienen como las de mayor prioridad percibida por los segmentos entrevistados.
 
 ## Recomendaciones y trabajo futuro
 
