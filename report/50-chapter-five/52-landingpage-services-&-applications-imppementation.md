@@ -63,6 +63,10 @@ URL LANDING PAGE: [https://dev-il-team.github.io/Hera-LandingPage/](https://dev-
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+| Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada | Especificación de parámetros | Explicación del Response |
+| ----- | ----- | ----- | ----- | ----- |
+| services | GET | var response \= await axios.get(\`${ServicesAPI}\`) | Se necesita la creacion de .env con la URL de la API | Se retorna toda la informacion de la API. |
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 El despliegue del Sprint 1 se realizó de la siguiente manera:
