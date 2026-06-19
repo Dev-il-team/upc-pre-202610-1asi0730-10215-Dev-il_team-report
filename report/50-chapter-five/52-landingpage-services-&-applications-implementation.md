@@ -6,6 +6,20 @@
 
 A continuación se presenta la planificación del primer Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo de la Landing Page y los componentes base de la Web Application.
 
+**Sprint Planning Background**
+
+| Campo | Detalle |
+| :---- | :---- |
+| Fecha | 07/04/2026 |
+| Hora | 20:00 (GMT-5) *(confirmar)* |
+| Lugar | Reunión remota por Discord |
+| Preparado por | Molina Falcón, Piero Leonardo (Scrum Master) |
+| Asistentes | Molina Falcón, Piero; Gutarra Velapatiño, Sebastián; Tello Quispe, Luis; Alfaro Coveñas, Louis; Durán Santander, Emilia |
+
+**Resumen del Review del Sprint anterior:** No aplica. El Sprint 1 corresponde al primer sprint del proyecto.
+
+**Resumen de la Retrospective del Sprint anterior:** No aplica. El Sprint 1 corresponde al primer sprint del proyecto.
+
 | Sprint \# | Sprint 1 |
 | :---- | :---- |
 | Fecha de inicio | 08/04/2026 |
@@ -102,6 +116,20 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 #### 5.2.2.1. Sprint Planning 2
 
 A continuación se presenta la planificación del siguiente Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo del resto del frontend y el consumo de datos mediante una fake API. 
+
+**Sprint Planning Background**
+
+| Campo | Detalle |
+| :---- | :---- |
+| Fecha | 06/05/2026 |
+| Hora | 20:00 (GMT-5) *(confirmar)* |
+| Lugar | Reunión remota por Discord |
+| Preparado por | Molina Falcón, Piero Leonardo (Scrum Master) |
+| Asistentes | Molina Falcón, Piero; Gutarra Velapatiño, Sebastián; Tello Quispe, Luis; Alfaro Coveñas, Louis; Durán Santander, Emilia |
+
+**Resumen del Review del Sprint 1:** Se presentó la Landing Page desplegada en GitHub Pages con soporte bilingüe (ES/EN) y las secciones Hero, Servicios, Beneficios, Planes y Contacto, además de los componentes base del frontend. Los entregables fueron aceptados por el equipo. *(Ampliar con el feedback registrado en la reunión.)*
+
+**Resumen de la Retrospective del Sprint 1:** *(Por completar con el equipo: qué salió bien, qué se debe mejorar y las acciones de mejora acordadas para el Sprint 2.)*
 
 | Sprint \# | Sprint 2 |
 | ----- | ----- |
