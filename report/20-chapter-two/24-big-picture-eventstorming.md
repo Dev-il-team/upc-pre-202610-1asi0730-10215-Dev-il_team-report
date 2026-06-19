@@ -1,4 +1,4 @@
-## 2.4. Big Picture EventEstorming
+## 2.4. Big Picture Event Storming
 
  Representación de los eventos del sistema: Inicio de sesión -> Ingreso satisfactorio -> Consulta de info de dispositivos -> Observación de seguridad -> Regulación de temperatura -> Verificación de consumo.
 
