@@ -40,15 +40,15 @@ El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC \- St
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :--- | :--- | :--- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **_ Molina Falcón, Piero Leonardo(AV2):** | **_ Molina Falcón, Piero Leonardo(AV2):** |
-| | **_ Tello Quispe, Luis German(AV2):** | **_ Tello Quispe, Luis German(AV2):** |
-| | **_ Gutarra Velapatiño, Sebastián(AV2):** | **_ Gutarra Velapatiño, Sebastián(AV2):** |
-| | **_ Louis Piero, Alfaro Coveñas(AV2):** | **_ Louis Piero, Alfaro Coveñas(AV2):** |
-| | **_ Duran Emilia(AV2):** | **_ Duran Emilia(AV2):** |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **_ Molina Falcón, Piero Leonardo(AV2):** | **_ Molina Falcón, Piero Leonardo(AV2):** |
-| | **_ Tello Quispe, Luis German(AV2):** | **_ Tello Quispe, Luis German(AV2):** |
-| | **_ Gutarra Velapatiño, Sebastián(AV2):** | **_ Gutarra Velapatiño, Sebastián(AV2):** |
-| | **_ Louis Piero, Alfaro Coveñas(AV2):** | **_ Louis Piero, Alfaro Coveñas(AV2):** |
-| | **_ Duran Emilia(AV2):** | **_ Duran Emilia(AV2):** |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **_ Molina Falcón, Piero Leonardo(AV2):** Lideré la configuración del entorno de despliegue en Netlify para el frontend y coordiné la integración de las vistas con la API RESTful. | **_ Molina Falcón, Piero Leonardo(AV2):** Su liderazgo en el despliegue garantizó que la plataforma estuviera disponible y funcional para la fase de validación del proyecto. |
+| | **_ Tello Quispe, Luis German(AV2):** Lideré el diseño de la base de datos y el desarrollo de los repositorios en el backend, guiando al equipo en la implementación del diagrama de clases. | **_ Tello Quispe, Luis German(AV2):** Su dirección en la estructuración de datos permitió una integración backend fluida y sin errores estructurales. |
+| | **_ Gutarra Velapatiño, Sebastián(AV2):** Fui responsable de la elaboración del bounded context EnergyAnalytics, definición de sus atributos y de los endpoints funcionales que tendrá[cite: 1]. | **_ Gutarra Velapatiño, Sebastián(AV2):** Su enfoque técnico en el módulo de energía fue clave para cumplir con uno de los requerimientos analíticos más importantes de Hera. |
+| | **_ Louis Piero, Alfaro Coveñas(AV2):** Fui responsable de la arquitectura del backend en C#, proporcionando liderazgo técnico en la implementación de la seguridad con tokens JWT. | **_ Louis Piero, Alfaro Coveñas(AV2):** Su liderazgo técnico aseguró que el sistema cumpliera con los estándares de seguridad y comunicación requeridos. |
+| | **_ Duran Emilia(AV2):** Lideré el proceso de validación del producto, coordinando y ejecutando las entrevistas con usuarios finales y la evaluación heurística. | **_ Duran Emilia(AV2):** Su coordinación en las validaciones permitió obtener feedback accionable de los usuarios para refinar la aplicación. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **_ Molina Falcón, Piero Leonardo(AV2):** Participé en la planificación del Sprint 3, asignando tareas del frontend equitativamente y apoyando en la resolución de conflictos en GitHub. | **_ Molina Falcón, Piero Leonardo(AV2):** Promovió un ambiente de apoyo mutuo que facilitó superar los bloqueos técnicos durante la integración del sistema. |
+| | **_ Tello Quispe, Luis German(AV2):** Cumplí con los plazos de la base de datos, comunicando avances diariamente en Discord para que el equipo probara los endpoints. | **_ Tello Quispe, Luis German(AV2):** Su constante comunicación y cumplimiento estricto de metas permitió mantener el ritmo de desarrollo del equipo backend. |
+| | **_ Gutarra Velapatiño, Sebastián(AV2):** Fui partícipe de todas las reuniones pactadas, aportando con mi avance en cada reunión, así como avisarlo mediante nuestro chat grupal[cite: 1]. | **_ Gutarra Velapatiño, Sebastián(AV2):** Su participación activa y transparencia mantuvieron al equipo sincronizado, fomentando un ambiente de trabajo inclusivo. |
+| | **_ Louis Piero, Alfaro Coveñas(AV2):** Mantuve el tablero de Trello actualizado y fomenté un entorno donde todos pudieran opinar sobre el diseño de los endpoints (Swagger). | **_ Louis Piero, Alfaro Coveñas(AV2):** Su organización garantizó que las metas del sprint se discutieran y cumplieran de forma estructurada y participativa. |
+| | **_ Duran Emilia(AV2):** Promoví la inclusión de todo el equipo en el análisis de los resultados de las entrevistas, traduciendo el feedback en tareas de mejora. | **_ Duran Emilia(AV2):** Fomentó que las decisiones de mejora se tomaran en conjunto, enriqueciendo el resultado final con diversas perspectivas. |
 
 \newpage

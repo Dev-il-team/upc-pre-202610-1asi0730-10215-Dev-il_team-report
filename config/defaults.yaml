@@ -42,6 +42,7 @@ input-files:
   
   # Conclusiones, Bibliografia y Anexos
   - report/60-conclusions/61-conclusions.md
+  - report/60-conclusions/62-video-about-the-team.md
   - report/70-literature/71-bibliography.md
   - report/80-annexes/81-annexes.md
 

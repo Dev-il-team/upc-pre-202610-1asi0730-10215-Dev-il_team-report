@@ -229,3 +229,62 @@ Durante el Sprint 2 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 | Tello Quispe, Luis Germán | 5 | Devices IOT |
 | Alfaro Coveñas, Louis Piero | 6 | Shared |
 | Durán, Emilia | 9 | Develop |
+
+### 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+| :--- | :--- |
+| **Fecha de inicio** | 15/05/2026 |
+| **Fecha de fin** | 15/06/2026 |
+| **Sprint Goal** | Desarrollar, implementar y desplegar los servicios RESTful API del backend en C# (ASP.NET Core), asegurando la seguridad con JWT y logrando la integración completa con la aplicación web en Vue.js. |
+| **Velocity** | 21 Story Points |
+| **Sum of Story Points** | 21 Story Points |
+
+### 5.2.3.3. Sprint Backlog 3
+
+| Story ID | Título | Descripción | Horas Est. |
+| :--- | :--- | :--- | :--- |
+| US-35 | Seguridad de API con Token JWT | Como Developer, deseo implementar un endpoint de login que devuelva un JWT para proteger las transacciones entre Frontend y Backend. | 8h |
+| US-36 | Endpoint GET de dispositivos | Como Developer, deseo construir un endpoint GET que devuelva el array de dispositivos en formato JSON para que el Frontend lo consuma. | 5h |
+| US-37 | Endpoint POST para registrar hardware | Como Developer, deseo crear un endpoint POST que inserte nuevos dispositivos en la base de datos validando los campos obligatorios. | 5h |
+| US-38 | Endpoint PATCH de cambio de estado | Como Developer, deseo habilitar un endpoint PATCH ligero que solo modifique el valor booleano de "encendido/apagado" de un equipo específico. | 4h |
+| US-40 | Endpoint DELETE para borrar dispositivo | Como Developer, deseo exponer un endpoint DELETE que elimine definitivamente el hardware de la base de datos relacional. | 3h |
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repositorio | Branch | Commit Message | Fecha |
+| :--- | :--- | :--- | :--- |
+| Hera-Backend | feature/auth-jwt | feat(auth): implement JWT bearer authentication middleware | 22/05/2026 |
+| Hera-Backend | feature/devices | feat(api): add GET and POST endpoints for IoT devices | 28/05/2026 |
+| Hera-Backend | feature/devices | feat(api): implement PATCH and DELETE operations for devices | 02/06/2026 |
+| Hera-Frontend | feature/api | refactor: replace json-server with real backend endpoints | 10/06/2026 |
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se realizó el despliegue en Netlify, configurando los recursos necesarios para hospedar los componentes del proyecto: Landing Page, Web Application y Web Services. El objetivo fue preparar el entorno en la nube para permitir la integración y ejecución del backend, así como el acceso público a la aplicación desde el navegador.
+
+El frontend (Landing Page y Web Application) fue desplegado exitosamente utilizando Netlify, aprovechando su integración continua con la rama `main` de nuestro repositorio en GitHub. Por otro lado, los servicios RESTful API desarrollados en C# fueron alojados en un servicio en la nube (ej. Azure App Services / Render), configurando las variables de entorno para la conexión a la base de datos de producción y los secretos de JWT.
+
+A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
+
+`[Insertar captura de pantalla del dashboard de Netlify con el deploy exitoso]`
+
+`[Insertar captura de pantalla de la API subida a la nube respondiendo a un request (ej. Postman o Swagger UI público)]`
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, enfocado en el backend y la integración, el equipo mantuvo la siguiente dinámica de colaboración:
+
+*   Sincronización diaria mediante nuestro canal de Discord para reportar problemas de CORS y formato de JSONs entre el frontend y backend.
+*   Gestión de tareas en Trello, moviendo los tickets de endpoints desde *In Progress* hasta *Testing* y *Done*.
+*   Revisión de código rigurosa mediante Pull Requests, exigiendo al menos una aprobación antes de fusionar ramas de características (`feature/*`) a `develop`.
+
+| Integrante | Commits (Sprint 3) | Area de contribucion |
+| :--- | :--- | :--- |
+| Molina Falcón, Piero Leonardo | 8 | Frontend API Integration, Netlify |
+| Alfaro Coveñas, Louis Piero | 12 | Backend Architecture, JWT Auth |
+| Tello Quispe, Luis German | 10 | Database scripts, Controllers |
+| Gutarra Velapatiño, Sebastián | 7 | Backend Endpoints, Swagger |
+| Duran Emilia | 6 | Frontend bugfixes, Validation |

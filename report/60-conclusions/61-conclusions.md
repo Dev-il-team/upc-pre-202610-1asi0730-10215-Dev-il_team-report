@@ -1,4 +1,4 @@
-# Conclusiones
+# 6.1. Conclusiones
 
 * La implementación de la plataforma Smart Home HERA permite mitigar la problemática de fragmentación en la gestión de dispositivos IoT, logrando centralizar el control de equipos de múltiples fabricantes en una única interfaz web intuitiva y eficiente.
 
