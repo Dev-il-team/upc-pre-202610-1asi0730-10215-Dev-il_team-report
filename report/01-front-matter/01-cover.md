@@ -7,7 +7,7 @@
 
 {\large \textbf{Carrera:} Ingeniería de Software}\\[0.5cm]
 {\large \textbf{Ciclo:} 2026-10}\\[0.5cm]
-{\large \textbf{Curso:} 1AS10730 Aplicaciones Web}\\[0.5cm]
+{\large \textbf{Curso:} 1ASI0730 Aplicaciones Web}\\[0.5cm]
 {\large \textbf{NRC:} 10215}\\[0.5cm]
 {\large \textbf{Profesores:} Bautista Ubillús, Efraín Ricardo; Castro Veramendi, Rafael Oswaldo; Mori Paiva, Hugo Allan; Sánchez Ponce, Alex Humberto; Velásquez Núñez, Ángel Augusto; Villafuerte Bazán, Óscar Iván}\\[1.5cm]
 
