@@ -4,14 +4,14 @@
 
 #### 5.2.1.1. Sprint Planning 1
 
-A continuación se presenta la planificación del primer Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo de la Landing Page y los componentes base de la Web Application.
+A continuación se presenta la planificación del primer Sprint del proyecto Hera, cuyo objetivo principal fue el desarrollo de la Landing Page pública del producto.
 
 **Sprint Planning Background**
 
 | Campo | Detalle |
 | :---- | :---- |
-| Fecha | 07/04/2026 |
-| Hora | 20:00 (GMT-5) *(confirmar)* |
+| Fecha | 07/04/2026 (martes) |
+| Hora | 10:00 p.m. (GMT-5) |
 | Lugar | Reunión remota por Discord |
 | Preparado por | Molina Falcón, Piero Leonardo (Scrum Master) |
 | Asistentes | Molina Falcón, Piero; Gutarra Velapatiño, Sebastián; Tello Quispe, Luis; Alfaro Coveñas, Louis; Durán Santander, Emilia |
@@ -24,9 +24,9 @@ A continuación se presenta la planificación del primer Sprint del proyecto Her
 | :---- | :---- |
 | Fecha de inicio | 08/04/2026 |
 | Fecha de fin | 21/04/2026 |
-| Sprint Goal | Desarrollar e implementar la Landing Page pública del producto Hera con soporte bilingüe (ES/EN) y los componentes base del dashboard de la Web Application. |
-| Velocity | 28 Story Points |
-| Sum of Story Points | 28 Story Points |
+| Sprint Goal | Desarrollar e implementar la Landing Page pública del producto Hera con soporte bilingüe (ES/EN). |
+| Velocity | 13 Story Points |
+| Sum of Story Points | 13 Story Points |
 
 #### 5.2.1.2. Aspect Leaders and Collaborrators
 
@@ -40,15 +40,20 @@ A continuación se presenta la planificación del primer Sprint del proyecto Her
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El Sprint Backlog del Sprint 1 incluye las siguientes User Stories priorizadas para esta iteración:
+El Sprint Backlog del Sprint 1 se enfocó exclusivamente en la Landing Page pública. Cada User Story se descompone en work-items/tasks con su estimación, responsable y estado:
 
-| Story ID | Título | Descripción | Horas Est. |
-| :---- | :---- | :---- | :---- |
-| US-01 | Ver panel de control | Como usuario quiero ver todos mis dispositivos en el dashboard | 5h |
-| US-02 | Control de iluminación | Como usuario quiero encender/apagar luces remotamente | 4h |
-| US-03 | Monitoreo de seguridad | Como usuario quiero recibir alertas de movimiento detectado | 6h |
-| US-04 | Landing page pública | Como visitante quiero conocer los servicios de Hera | 8h |
-| US-05 | Registro de usuario | Como usuario nuevo quiero crear una cuenta en la plataforma | 5h |
+| User Story | SP | Work-Item / Task | Descripción | Est. (h) | Assigned To | Status |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| US01 – Visualizar propuesta de valor | 2 | US01-T1 | Maquetar la sección Hero con la propuesta de valor y el CTA principal | 3 | Molina, Piero | Done |
+| | | US01-T2 | Aplicar el Design System y el diseño responsive al Hero | 2 | Molina, Piero | Done |
+| US04 – Visualizar beneficios de integración | 2 | US04-T1 | Implementar la sección de Beneficios con tarjetas | 3 | Tello, Luis | Done |
+| | | US04-T2 | Estilizar y hacer responsive la sección de Beneficios | 2 | Tello, Luis | Done |
+| US02 – Consultar planes de suscripción | 1 | US02-T1 | Maquetar la sección de Planes (Básico/Premium) | 2 | Gutarra, Sebastián | Done |
+| | | US02-T2 | Estilizar la comparativa de planes y adaptarla a Mobile | 2 | Gutarra, Sebastián | Done |
+| US03 – Internacionalización de contenido | 3 | US03-T1 | Implementar el sistema i18n (ES/EN) en JavaScript vanilla | 4 | Alfaro, Louis | Done |
+| | | US03-T2 | Integrar el toggle de idioma en la barra de navegación | 2 | Alfaro, Louis | Done |
+| US05 – Soporte de accesibilidad básica | 5 | US05-T1 | Aplicar atributos de accesibilidad (alt, aria, contraste de color) | 3 | Durán, Emilia | Done |
+| | | US05-T2 | Revisión responsive y corrección de problemas de usabilidad | 3 | Durán, Emilia | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -108,8 +113,8 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 | Molina Falcon, Piero Leonardo | 12 | Landing Page – Hero, Nav, Footer |
 | Gutarra Velapatiño, Sebastián Ernesto | 9 | Landing Page – Servicios, Planes |
 | Tello Quispe, Luis Germán | 8 | Landing Page – Beneficios, Contacto |
-| Alfaro Coveñas, Louis Piero | 10 | Web App – DeviceCard, Layout base |
-| Durán Santander, Emilia Mercedes | 7 | Web App – EnergyChart, mock data |
+| Alfaro Coveñas, Louis Piero | 10 | Landing Page – Suscripción/CTA, i18n |
+| Durán Santander, Emilia Mercedes | 7 | Landing Page – Responsive, Accesibilidad |
 
 ### 5.2.2. Sprint 2
 
@@ -121,23 +126,23 @@ A continuación se presenta la planificación del siguiente Sprint del proyecto 
 
 | Campo | Detalle |
 | :---- | :---- |
-| Fecha | 06/05/2026 |
-| Hora | 20:00 (GMT-5) *(confirmar)* |
+| Fecha | 06/05/2026 (miércoles) |
+| Hora | 9:00 p.m. (GMT-5) |
 | Lugar | Reunión remota por Discord |
 | Preparado por | Molina Falcón, Piero Leonardo (Scrum Master) |
 | Asistentes | Molina Falcón, Piero; Gutarra Velapatiño, Sebastián; Tello Quispe, Luis; Alfaro Coveñas, Louis; Durán Santander, Emilia |
 
-**Resumen del Review del Sprint 1:** Se presentó la Landing Page desplegada en GitHub Pages con soporte bilingüe (ES/EN) y las secciones Hero, Servicios, Beneficios, Planes y Contacto, además de los componentes base del frontend. Los entregables fueron aceptados por el equipo. *(Ampliar con el feedback registrado en la reunión.)*
+**Resumen del Review del Sprint 1:** Se presentó la Landing Page desplegada en GitHub Pages con soporte bilingüe (ES/EN) y las secciones Hero, Servicios, Beneficios, Planes y Contacto. Los entregables fueron aceptados por el equipo.
 
-**Resumen de la Retrospective del Sprint 1:** *(Por completar con el equipo: qué salió bien, qué se debe mejorar y las acciones de mejora acordadas para el Sprint 2.)*
+**Resumen de la Retrospective del Sprint 1:** Queda pendiente añadir el video About the Team e integrar con el frontend (CTA). Para el siguiente sprint, deberemos dedicar más tiempo al planning de desarrollo y reservar tiempo específicamente para realizar los arreglos correspondientes en el informe.
 
 | Sprint \# | Sprint 2 |
 | ----- | ----- |
 | Fecha de inicio | 07/05/2026 |
 | Fecha de fin | 13/05/2026 |
-| Sprint Goal | Desarrollar e implementar cada sección del frontend del proyecto Hera, su consumo de datos y muestre gráficos a partir de ello. |
-| Velocity | 30 Story Points |
-| Sum of Story Points | 30 Story Points |
+| Sprint Goal | Desarrollar e implementar las secciones del frontend del proyecto Hera, su consumo de datos mediante la fake API y la visualización de gráficos a partir de ellos. |
+| Velocity | 26 Story Points |
+| Sum of Story Points | 26 Story Points |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -151,15 +156,20 @@ A continuación se presenta la planificación del siguiente Sprint del proyecto 
 
 #### 5.2.2.3. Sprint Backlog 2
 
-El Sprint Backlog del Sprint 2 incluye las siguientes User Stories priorizadas para esta iteración:
+El Sprint Backlog del Sprint 2 se enfocó en el frontend de la Web Application y su consumo de datos mediante la fake API. Cada User Story se descompone en work-items/tasks con su estimación, responsable y estado:
 
-| Story ID | Título | Descripción | Horas Est. |
-| ----- | ----- | ----- | ----- |
-| US-16 | Visualización de panel de control (Dashboard) | Como propietario del hogar, deseo visualizar un resumen del estado de mi casa en tiempo real para tomar decisiones rápidas. | 7h |
-| US-18 | Monitoreo visual de cámaras | Como nuevo usuario, deseo acceder a la transmisión de mis cámaras de seguridad para ver el estado de mi mascota desde el trabajo. | 3h |
-| US-20 | Notificaciones de alerta de seguridad | Como propietario del hogar, deseo recibir alertas visuales en la plataforma para reaccionar ante posibles riesgos detectados por los sensores. | 3h |
-| US-24 | Visualización de automatizaciones | Como propietario del hogar, deseo listar todas mis rutinas programadas para recordar qué procesos se ejecutan solos. | 4h |
-| US-28 | Resumen numérico de consumo | Como nuevo usuario, deseo visualizar una estimación de mi consumo energético del mes para tener noción de mi gasto. | 5h |
+| User Story | SP | Work-Item / Task | Descripción | Est. (h) | Assigned To | Status |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| US16 – Visualización de panel de control | 5 | US16-T1 | Implementar la vista Dashboard con el resumen del estado del hogar | 4 | Molina, Piero | Done |
+| | | US16-T2 | Consumir la fake API (axios) y poblar el dashboard en tiempo real | 3 | Molina, Piero | Done |
+| US18 – Monitoreo visual de cámaras | 8 | US18-T1 | Implementar la vista de cámaras y la reproducción del stream | 5 | Durán, Emilia | Done |
+| | | US18-T2 | Integrar los datos de cámaras desde la fake API | 3 | Durán, Emilia | Done |
+| US20 – Notificaciones de alerta de seguridad | 5 | US20-T1 | Implementar el panel de notificaciones de alertas de seguridad | 3 | Tello, Luis | Done |
+| | | US20-T2 | Filtrar por tipo de alerta y consumir desde la fake API | 3 | Tello, Luis | Done |
+| US24 – Visualización de automatizaciones | 3 | US24-T1 | Implementar el listado de rutinas/automatizaciones | 3 | Gutarra, Sebastián | Done |
+| | | US24-T2 | Consumir las automatizaciones desde la fake API | 2 | Gutarra, Sebastián | Done |
+| US28 – Resumen numérico de consumo | 5 | US28-T1 | Implementar la vista de resumen de consumo energético | 3 | Alfaro, Louis | Done |
+| | | US28-T2 | Graficar el consumo y consumir los datos desde la fake API | 3 | Alfaro, Louis | Done |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
