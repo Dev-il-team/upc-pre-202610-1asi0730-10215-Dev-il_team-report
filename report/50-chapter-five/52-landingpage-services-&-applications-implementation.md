@@ -42,16 +42,16 @@ Durante el Sprint 1 se realizaron los siguientes commits representativos en los 
 
 | Repositorio | Branch | Commit Message | Fecha |
 | :---- | :---- | :---- | :---- |
-| hera-landing-page | feature/hero-section | feat: add hero section with bilingual toggle | 10/04/2026 |
-| hera-landing-page | feature/services-section | feat: implement services cards with hover effects | 12/04/2026 |
-| hera-landing-page | feature/plans-section | feat: add pricing plans with ES/EN support | 14/04/2026 |
-| hera-landing-page | main | chore: deploy landing page v1.0.0 to GitHub Pages | 18/04/2026 |
+| Hera-LandingPage | feature/hero-section | feat: add hero section with bilingual toggle | 10/04/2026 |
+| Hera-LandingPage | feature/services-section | feat: implement services cards with hover effects | 12/04/2026 |
+| Hera-LandingPage | feature/plans-section | feat: add pricing plans with ES/EN support | 14/04/2026 |
+| Hera-LandingPage | main | chore: deploy landing page v1.0.0 to GitHub Pages | 18/04/2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante este sprint se completaron exitosamente los siguientes entregables:
 
-* Landing Page desplegada en producción: https://dev-il-team.github.io/hera-landing-page
+* Landing Page desplegada en producción: https://dev-il-team.github.io/Hera-LandingPage/
 
 * La Landing Page incluye las secciones: Hero, Servicios, Beneficios, Planes y Contacto, con soporte bilingüe completo.
 
@@ -69,11 +69,11 @@ El despliegue del Sprint 1 se realizó de la siguiente manera:
 
 **Landing Page – GitHub Pages:**
 
-* Se realizó merge de la rama develop a main en el repositorio hera-landing-page.
+* Se realizó merge de la rama develop a main en el repositorio Hera-LandingPage.
 
 * GitHub Pages detecta automáticamente el push a main y despliega el contenido estático.
 
-* URL: https://dev-il-team.github.io/hera-landing-page
+* URL: https://dev-il-team.github.io/Hera-LandingPage/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -92,10 +92,10 @@ Durante el Sprint 1 el equipo Dev-il-team mantuvo la siguiente dinámica de cola
 | Integrante | Commits (Sprint 1\) | Area de contribucion |
 | :---- | :---- | :---- |
 | Molina Falcon, Piero Leonardo | 12 | Landing Page – Hero, Nav, Footer |
-| Integrante 2 | 9 | Landing Page – Servicios, Planes |
-| Integrante 3 | 8 | Landing Page – Beneficios, Contacto |
-| Integrante 4 | 10 | Web App – DeviceCard, Layout base |
-| Integrante 5 | 7 | Web App – EnergyChart, mock data |
+| Gutarra Velapatiño, Sebastián Ernesto | 9 | Landing Page – Servicios, Planes |
+| Tello Quispe, Luis Germán | 8 | Landing Page – Beneficios, Contacto |
+| Alfaro Coveñas, Louis Piero | 10 | Web App – DeviceCard, Layout base |
+| Durán Santander, Emilia Mercedes | 7 | Web App – EnergyChart, mock data |
 
 ### 5.2.2. Sprint 2
 

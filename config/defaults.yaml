@@ -36,7 +36,7 @@ input-files:
   
   # Capitulo 5
   - report/50-chapter-five/51-software-configuration-management.md
-  - report/50-chapter-five/52-landingpage-services-&-applications-imppementation.md
+  - report/50-chapter-five/52-landingpage-services-&-applications-implementation.md
   - report/50-chapter-five/53-validation-interviews.md
   - report/50-chapter-five/54-video-about-the-product.md
   
@@ -63,4 +63,4 @@ variables:
     - \usepackage{graphicx}
 
 # Salida del archivo respetando la nomenclatura del curso
-output-file: build/upc-pre-202610-1asi0730-10215-Dev-il-team-report-av1.pdf
+output-file: build/upc-pre-202610-1asi0730-10215-Dev-il-team-report-av2.pdf
