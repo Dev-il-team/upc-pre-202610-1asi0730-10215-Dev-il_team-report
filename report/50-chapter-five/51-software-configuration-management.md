@@ -74,7 +74,7 @@ El equipo utiliza Git como sistema de control de versiones distribuido y GitHub 
 
 * Informe del Proyecto: https://github.com/Dev-il-team/upc-pre-202610-1asi0730-10215-Dev-il_team-report
 
-El repositorio de Web Services (Hera-Backend) contiene el proyecto ASP.NET Core organizado por bounded contexts, e incorpora los proyectos de pruebas unitarias y de integración/aceptación correspondientes.
+El repositorio de Web Services (Hera-Backend) contiene el proyecto ASP.NET Core organizado por bounded contexts; está prevista la incorporación de los proyectos de pruebas unitarias y de integración/aceptación correspondientes.
 
 **Modelo de branching – GitFlow:**
 
