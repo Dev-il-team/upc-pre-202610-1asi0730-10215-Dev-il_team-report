@@ -14,7 +14,7 @@ Frontend: [https://github.com/Dev-il-team/Hera-Frontend]
 
 Backend: [https://github.com/Dev-il-team/Hera-Backend]
 
-![](assets/collaboration-insights-01.png)
+![](https://github.com/Dev-il-team/upc-pre-202610-1asi0730-10215-Dev-il_team-report/blob/develop/assets/collaboration-insights-01.png)
 
 ![](assets/collaboration-insights-02.png)
 
