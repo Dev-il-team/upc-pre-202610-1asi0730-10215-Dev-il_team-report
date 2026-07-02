@@ -14,9 +14,9 @@ Frontend: [https://github.com/Dev-il-team/Hera-Frontend]
 
 Backend: [https://github.com/Dev-il-team/Hera-Backend]
 
-![width=\linewidth]{assets/collaboration-insights-01.png}
+![](assets/collaboration-insights-01.png)
 
-![width=\linewidth]{assets/collaboration-insights-02.png}
+![](assets/collaboration-insights-02.png)
 
 **TB2 (sprint 4):**
 \newpage
