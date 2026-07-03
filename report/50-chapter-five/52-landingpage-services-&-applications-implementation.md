@@ -80,6 +80,14 @@ Durante este sprint se completaron exitosamente los siguientes entregables:
 
 URL LANDING PAGE: [https://dev-il-team.github.io/Hera-LandingPage/](https://dev-il-team.github.io/Hera-LandingPage/)
 
+\includegraphics[width=\linewidth]{assets/landing1.PNG}
+
+\includegraphics[width=\linewidth]{assets/landing2.PNG}
+
+\includegraphics[width=\linewidth]{assets/landing3.PNG}
+
+\includegraphics[width=\linewidth]{assets/landing4.PNG}
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 | Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada | Especificación de parámetros | Explicación del Response |
