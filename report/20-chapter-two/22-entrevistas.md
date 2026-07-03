@@ -63,9 +63,27 @@ Validar las suposiciones planteadas en el Lean UX respecto a las necesidades, co
    * ¿Qué preocupaciones tendría en cuanto a seguridad o privacidad de datos de sus clientes?
 
 ### 2.2.2. Registro de entrevistas
-* **Segmento 1 (Nuevos usuarios):** Se entrevistó a 5 personas (25-45 años). Expresaron miedo a la complejidad técnica y a la incompatibilidad de marcas.
-* **Segmento 2 (Usuarios experimentados):** Se entrevistó a 4 personas. Su principal queja es tener "5 aplicaciones distintas para encender las luces y ver las cámaras".
-* **Segmento 3 (Técnicos):** Se entrevistó a 2 empresas instaladoras. Indicaron que el mantenimiento post-venta es caótico por no tener un panel centralizado de sus clientes.
+
+#### Segmento 1: Propietario de Hogar Inteligente
+
+**Entrevista 1**
+
+* **Nombres y apellidos:** Francesco Lombardi
+* **Edad:** 30 años
+* **Distrito:** Mallorca, España
+* **Inicio:** 00:00:30 · **Duración:** 00:13:41
+* **Link:** [Ver grabación de la entrevista (SharePoint)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQBsTkWgKzVQSKRbjiTlbTnjAesMALF5wATkT-XARlFfu54?e=sHLwH3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Se realizó una entrevista a un propietario de una vivienda inteligente (Smart Home) con el objetivo de conocer su experiencia en el uso de tecnologías domóticas aplicadas al hogar. Durante la conversación, se identificaron aspectos clave como la automatización de la iluminación, el control de seguridad mediante cámaras y sensores, la gestión remota de dispositivos electrónicos y la optimización del consumo energético. Asimismo, el entrevistado destacó la importancia de la comodidad, la seguridad y el ahorro de tiempo como principales beneficios, así como algunas dificultades relacionadas con la configuración inicial y el mantenimiento de los sistemas inteligentes.
+
+**Entrevista 2**
+
+* **Nombres y apellidos:** Roger Caldas Ingunza
+* **Edad:** 52 años
+* **Inicio:** 0:00 · **Duración:** 8:13
+* **Link:** [Ver grabación de la entrevista (YouTube)](https://www.youtube.com/watch?v=wF9kS3Xe_20)
+
+Se realizó una entrevista a un propietario de una vivienda inteligente con el objetivo de conocer su experiencia y sus hábitos en el uso de tecnologías domóticas aplicadas al hogar. Conocemos sus preferencias o dificultades y, a partir de ello, le mostramos nuestra propuesta de una aplicación que integre los dispositivos y monitoree el consumo de electricidad.
 
 ### 2.2.3. Análisis de entrevistas
 **Hallazgos principales:**
