@@ -275,11 +275,6 @@ Durante este sprint se realizó el despliegue en Netlify, configurando los recur
 
 El frontend (Landing Page y Web Application) fue desplegado exitosamente utilizando Netlify, aprovechando su integración continua con la rama `main` de nuestro repositorio en GitHub. Por otro lado, los servicios RESTful API desarrollados en C# fueron alojados en un servicio en la nube (ej. Azure App Services / Render), configurando las variables de entorno para la conexión a la base de datos de producción y los secretos de JWT.
 
-A continuación mostraremos las imágenes como evidencia del deployment realizado en este sprint:
-
-`[Insertar captura de pantalla del dashboard de Netlify con el deploy exitoso]`
-
-`[Insertar captura de pantalla de la API subida a la nube respondiendo a un request (ej. Postman o Swagger UI público)]`
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -296,3 +291,58 @@ Durante el Sprint 3, enfocado en el backend y la integración, el equipo mantuvo
 | Tello Quispe, Luis German | 10 | Database scripts, Controllers |
 | Gutarra Velapatiño, Sebastián | 7 | Backend Endpoints, Swagger |
 | Duran Emilia | 6 | Frontend bugfixes, Validation |
+
+
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+| Sprint # | Sprint 4 |
+| :--- | :--- |
+| **Fecha de inicio** | 01/07/2026 |
+| **Fecha de fin** | 05/07/2026 |
+| **Sprint Goal** | Desplegar los servicios del backend en C# (ASP.NET Core), esta ocasión implementarlo junto con el frontend y probar las funciones en la página desplegada |
+| **Velocity** | 20 Story Points |
+| **Sum of Story Points** | 20 Story Points |
+
+### 5.2.4.3. Sprint Backlog 4
+
+| Story ID | Título | Descripción | Horas Est. |
+| :--- | :--- | :--- | :--- |
+| US-11 | Vinculación de nuevo hardware | Como usuario explorador, deseo agregar un nuevo dispositivo IoT para integrarlo al sistema. | 5h |
+| US-15 | Asignación espacial de dispositivos | Como propietario del hogar, deseo agrupar mis dispositivos por habitación para una gestión estructurada. | 3h |
+| TS-13 | Middleware de control de errores | Como Developer, deseo implementar un middleware global que capture excepciones para no mostrar el stack trace. | 3h |
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+| Repositorio | Branch | Commit Message | Fecha |
+| :--- | :--- | :--- | :--- |
+| Hera-Backend | feature/monitoring-domain | feat(monitoring): add monitoring domain layer | 03/07/2026 |
+| Hera-Backend | feature/monitoring-infrastructure |feat(monitoring): add monitoring infrastructure layer | 03/07/2026 |
+| Hera-Frontend | feature/monitoring-interfaces | feat(monitoring): add monitoring interfaces layer | 03/07/2026 |
+| Hera-Frontend | feature/monitoring-application | feat(monitoring): add monitoring application layer | 03/07/2026 |
+| Hera-Backend | feature/profiles-domain | feat(domain): define domain models and business logic | 03/07/2026 |
+| Hera-Backend | feature/profiles-infrastructure |feat(infrastructure): setup infrastructure configuration | 03/07/2026 |
+| Hera-Frontend | feature/profiles-interfaces | feat(interfaces): develop api endpointsand controller logic | 03/07/2026 |
+| Hera-Frontend | feature/profiles-application | feat(application): implement core application services | 03/07/2026 |
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se realizó el despliegue del backend, habiendo corregido las observaciones recibidas en la entrega anterior.
+El frontend fue desplegado en Vercel y el backend en un servicio de hosting para APIs. Después configuramos la conexión entre ambos para que el sitio web pueda consumir los servicios del backend e interactuar con la base de datos.
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, enfocado en el backend y la integración, el equipo mantuvo la siguiente dinámica de colaboración:
+
+*   Sincronización diaria mediante nuestro canal de Discord para reportar problemas de CORS y formato de JSONs entre el frontend y backend.
+*   Gestión de tareas en Trello, moviendo los tickets de endpoints desde *In Progress* hasta *Testing* y *Done*.
+*   Revisión de código rigurosa mediante Pull Requests, exigiendo al menos una aprobación antes de fusionar ramas de características (`feature/*`) a `develop`.
+
+| Integrante | Commits (Sprint 4) | Area de contribucion |
+| :--- | :--- | :--- |
+| Molina Falcón, Piero Leonardo | 12 | Bounded context Automation y despliegue del frontend |
+| Alfaro Coveñas, Louis Piero | 12 | Despliegue del backend |
+| Tello Quispe, Luis German | 6 | Bounded context Profiles |
+| Gutarra Velapatiño, Sebastián | 6 | Bounded context Energy analytics |
+| Duran Emilia | 6 | Bounded context Monitoring |
