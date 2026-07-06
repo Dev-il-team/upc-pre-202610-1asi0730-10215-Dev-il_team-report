@@ -28,10 +28,28 @@ Backend: [https://github.com/Dev-il-team/Hera-Backend](https://github.com/Dev-il
 
 \includegraphics[width=\linewidth]{assets/collaboration-insights-01.png}
 
-\includegraphics[width=\linewidth]{assets/collaboration-insights-01.png}
+\includegraphics[width=\linewidth]{assets/collaboration-insights-02.png}
 
-**TB2 (sprint 4):** El equipo continuo con la mejora progresiva y mediante el uso de nuestro repositorio se obtuvo la siguiente participacion:
+**TB2 (sprint 4):** El equipo continuo con la mejora progresiva, implementando mejoras en los repositorios mencionados anteriormente, para guardar concordancia con los nuevos cambios y garantizar la calidad del producto y experiencia de usuario. Mediante el uso de nuestros repositorios se obtuvieron la siguientes participaciones:
 
+Landing Page: [https://github.com/Dev-il-team/Hera-LandingPage](https://github.com/Dev-il-team/Hera-LandingPage)
 
+\includegraphics[width=\linewidth]{assets/tb2-landing-network.png}
+
+\includegraphics[width=\linewidth]{assets/tb2-landing-collaborators.png}
+
+Frontend: [https://github.com/Dev-il-team/Hera-Frontend](https://github.com/Dev-il-team/Hera-Frontend)
+
+\includegraphics[width=\linewidth]{assets/tb2-frontend-network.png}
+
+\includegraphics[width=\linewidth]{assets/tb2-frontend-collaborators.png}
+
+Backend: [https://github.com/Dev-il-team/Hera-Backend](https://github.com/Dev-il-team/Hera-Backend)
+
+\includegraphics[width=\linewidth]{assets/tb2-backend-insights.png}
+
+\includegraphics[width=\linewidth]{assets/tb2-backend-network.png}
+
+\includegraphics[width=\linewidth]{assets/tb2-backend-collaborators.png}
 
 \newpage
