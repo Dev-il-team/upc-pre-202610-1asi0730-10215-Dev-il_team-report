@@ -72,4 +72,25 @@
  
 ### 5.3.2. Registro de Entrevistas. 
 
+**Entrevista 1**
+
+* **Nombres y apellidos:** 
+* **Edad:** 
+* **Inicio:** 0:00 · **Duración:** 
+* **Link:** []()
+
+**Entrevista 2**
+
+* **Nombres y apellidos:** 
+* **Edad:** 
+* **Inicio:** 0:00 · **Duración:** 
+* **Link:** []()
+  
+**Entrevista 3**
+
+* **Nombres y apellidos:** Marion Otiniano
+* **Edad:** 22
+* **Inicio:** 0:00 · **Duración:** 
+* **Link:** []()
+
 ### 5.3.3. Evaluaciones según heurísticas. 

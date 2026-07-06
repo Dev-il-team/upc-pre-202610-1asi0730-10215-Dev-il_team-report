@@ -85,8 +85,33 @@ Se realizó una entrevista a un propietario de una vivienda inteligente (Smart H
 
 Se realizó una entrevista a un propietario de una vivienda inteligente con el objetivo de conocer su experiencia y sus hábitos en el uso de tecnologías domóticas aplicadas al hogar. Conocemos sus preferencias o dificultades y, a partir de ello, le mostramos nuestra propuesta de una aplicación que integre los dispositivos y monitoree el consumo de electricidad.
 
+**Entrevista 3**
+
+* **Nombres y apellidos:** Marion Otiniano
+* **Edad:** 22
+* **Inicio:** 0:00 · **Duración:** 
+* **Link:** []()
+
+
 ### 2.2.3. Análisis de entrevistas
-**Hallazgos principales:**
-1. Existe una "fatiga de aplicaciones" (App Fatigue) en el sector IoT.
-2. El monitoreo de energía no es solo un deseo ecológico, sino económico; los usuarios quieren ver su ahorro en moneda local.
-3. Los técnicos están dispuestos a pagar una suscripción Premium (B2B) si les permite ofrecer soporte remoto a los hogares de sus clientes.
+
+A partir de las entrevistas realizadas al segmento objetivo "Propietario de Hogar Inteligente", se ha logrado recopilar información cualitativa de usuarios con diferentes perfiles demográficos (desde jóvenes adultos de 22 años hasta adultos de 52 años) y con distintos niveles de familiaridad técnica. El objetivo de esta fase fue descubrir patrones de uso, identificar frustraciones recurrentes y validar las hipótesis que sostienen la propuesta de valor de **Hera**.
+
+A continuación, se detallan los hallazgos categorizados tras el procesamiento de las entrevistas:
+
+**1. Puntos de dolor (Pain Points) identificados:**
+* **"Fatiga de aplicaciones" (App Fatigue) por fragmentación del ecosistema IoT:** Este es el problema más crítico evidenciado en las entrevistas. Los usuarios expresan una clara frustración al tener que descargar, mantener y alternar entre múltiples aplicaciones propietarias según la marca del dispositivo (una app para luces, otra para cámaras, otra para climatización). Esta fragmentación destruye la promesa de "comodidad" que debería ofrecer la domótica.
+* **Fricción en la configuración inicial y mantenimiento:** Los entrevistados (como Francesco) señalaron que la vinculación de nuevos dispositivos, la configuración de rutinas y el mantenimiento de los sistemas cuando ocurren desvinculaciones, suelen ser procesos técnicos tediosos. Existe una barrera de entrada que dificulta que usuarios menos experimentados aprovechen todo el potencial de su hogar inteligente.
+
+**2. Patrones de uso y motivaciones principales:**
+* **Confort, ahorro de tiempo y seguridad:** La motivación de compra no es meramente tecnológica, sino funcional. La automatización de la iluminación y el monitoreo de seguridad (cámaras, sensores) son los casos de uso más frecuentes. Los usuarios buscan delegar tareas rutinarias para ahorrar tiempo y ganar "tranquilidad mental" al poder vigilar sus hogares de forma remota.
+* **Brecha generacional en la adopción:** Mientras que los usuarios más jóvenes tienden a buscar una automatización profunda e integración fluida, los usuarios de mayor edad (como Roger, de 52 años) valoran interfaces más limpias, directas y enfocadas en el monitoreo básico sin demasiadas distracciones visuales.
+
+**3. Necesidades y expectativas frente a Hera:**
+* **El monitoreo de energía como un driver económico (Energy Analytics):** Un hallazgo revelador es que el interés en el consumo eléctrico no proviene únicamente de una conciencia ecológica, sino de una fuerte motivación económica. Los usuarios no quieren ver solamente gráficos de "Kilovatios-hora (kWh)"; exigen ver una traducción clara y proyectada de su consumo a su equivalente en moneda local (ahorro y gasto tangible) para justificar la inversión en dispositivos inteligentes.
+* **Receptividad alta a la centralización:** Al presentarles el concepto de una plataforma unificada y dashboard central, la respuesta fue unánimemente positiva. La capacidad de integrar el control de hardware y el monitoreo financiero en un solo lugar valida directamente el *Solution Profile* de nuestra plataforma.
+
+**Conclusiones y Key Insights del análisis:**
+1. **La centralización es una necesidad imperativa:** El valor central de Hera debe ser unificar el control para mitigar la "fatiga de aplicaciones". La plataforma debe actuar como un control universal intuitivo.
+2. **Traducción monetaria del consumo:** El módulo de *Energy Analytics* debe enfocar sus resultados en el impacto directo a la economía del hogar (gasto vs. ahorro) para generar retención y valor real en el usuario.
+3. **Onboarding simplificado:** Debido a las quejas sobre la complejidad de instalación, Hera debe ofrecer un flujo de "vinculación de hardware" extremadamente simple e intuitivo, guiando al usuario paso a paso para reducir la frustración técnica.
