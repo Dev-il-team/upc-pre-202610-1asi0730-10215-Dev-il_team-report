@@ -74,10 +74,10 @@
 
 **Entrevista 1**
 
-* **Nombres y apellidos:** 
-* **Edad:** 
-* **Inicio:** 0:00 · **Duración:** 
-* **Link:** []()
+* **Nombres y apellidos:** Roger Caldas Ingunza
+* **Edad:** 52
+* **Inicio:** 0:00 · **Duración:** 10:10
+* **Link:** [Entrevista de valuidación 1](https://youtu.be/4MmT_GBv6C4)
 
 **Entrevista 2**
 
